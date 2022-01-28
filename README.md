@@ -11,7 +11,7 @@ You must have at least **2 commits** of your build.
 
 **You must be present in class in order to receive a grade for this assessment.  Labs that do not follow best naming practices, or do not validate, will receive a 0. Late submissions will not be accepted!**
 
-**You must be present, and stay, in class in order to receive a grade for this assessment.**
+**You must be present, and stay, in class until your build is comlete in order to receive a grade for this assessment.**
 
 **Commits to GitHub Classroom after the due date will NOT be graded!**
 
