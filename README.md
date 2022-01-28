@@ -14,16 +14,9 @@ Zip up your file and submit it to Moodle (for a backup submission) and commit yo
 ## Marking Key
 | **Marks** | **Criteria** |
 | :---: |--------------|
-| 5 | Task was completed with the highest of proficiency adhering to best practices
-and followed subject matter guidelines. All tasks were completed to a
-professional standard. |
-| 4 | Task was completed well some minor mistakes. Well above average work
-shows good understanding of the task and high degree of competence. |
-| 3 | Satisfactory work. Some features missing or incorrectly implemented. Shows a
-moderate level of understanding in the task with room for improvement. |
-| 2 | Below average work. Task was poorly completed. Show understanding of the
-task and the requirements to implement, but implementation was poorly
-executed. |
-| 1 | Some of the task was completed. Showed a lack of understanding in the
-subject matter and very poorly executed. |
+| 5 | Task was completed with the highest of proficiency adhering to best practices and followed subject matter  guidelines. All tasks were completed to a professional standard. |
+| 4 | Task was completed well some minor mistakes. Well above average work shows good understanding of the task and high degree of competence. |
+| 3 | Satisfactory work. Some features missing or incorrectly implemented. Shows a moderate level of understanding in the task with room for improvement. |
+| 2 | Below average work. Task was poorly completed. Show understanding of the task and the requirements to implement, but implementation was poorly executed. |
+| 1 | Some of the task was completed. Showed a lack of understanding in the subject matter and very poorly executed. |
 | 0 | Not completed. |
