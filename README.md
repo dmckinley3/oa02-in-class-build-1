@@ -9,4 +9,4 @@ You must have at least **2 commits** of your build. This is to be a responsive d
 
 **You must be present, and stay, in class in order to receive a grade for this assessment.**
 
-Zip up your file and submit it to Moodle and commit your project to GitHub Classroom.
+Zip up your file and submit it to Moodle (for a backup submission) and commit your project to GitHub Classroom.
